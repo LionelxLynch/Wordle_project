@@ -1,0 +1,18 @@
+What does the program do?
+
+This program is a Wordle remake. The user job will be to guess a random five letter word in six trys. If the user guesses the wrong word but manages to get one of the letters in the word correct they will be given the '~' symbol as a hint, If they guess the the wrong word but the get the correct letter in the correct position they will get a checkmark symbol, and if the user doesn'y get any letters correct they will be given a '-' symbol. 
+
+
+What problem does your program solve?
+
+This program is meant to solve Kninghtrolas problem of boredom 
+
+
+Criteria Checklist: 
+
+Accept input from the terminal (COMPLETED)
+Produce output to the terminal (COMPLETED)
+Use both string and numeric variables meaningfully (COMPLETED)
+Use conditional statements to make decisions (COMPLETED)
+Use loops to deal with data iteratively (COMPLETED)
+Use lists or dictionaries to manage data (COMPLETED)
